@@ -5,7 +5,6 @@
 lib/
 *.DotSettings
 *.licx
-*.txt
 *.Designer.cs
 packages.config
 App.config

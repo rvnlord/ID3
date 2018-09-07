@@ -1,0 +1,16 @@
+OUTLOOK,TEMPERATURE,HUMIDITY,WINDY,PLAY
+=====================================================
+sunny,>72,>78,false,Don't Play
+sunny,>72,>78,true,Don't Play
+overcast,>72,<=78,false,Play
+rain,<=72,>78,false,Play
+rain,<=72,>78,false,Play
+rain,<=72,<=78,true,Don't Play
+overcast,<=72,<=78,true,Play
+sunny,<=72,>78,false,Don't Play
+sunny,<=72,<=78,false,Play
+rain,>72,>78,false,Play
+sunny,>72,<=78,true,Play
+overcast,<=72,>78,true,Play
+overcast,>72,<=78,false,Play
+rain,<=72,>78,true,Don't Play
